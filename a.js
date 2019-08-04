@@ -10,7 +10,7 @@ console.log(2);
 
 test('bbbb');
 
-document.getElementById('app');
+document.getElementById('app2');
 
 new Vue({
 el:'#app',
