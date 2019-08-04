@@ -8,7 +8,7 @@ console.log(2);
 }
 
 
-test('aaaa');
+test('bbbb');
 
 document.getElementById('app');
 
